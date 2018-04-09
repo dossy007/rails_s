@@ -1,0 +1,8 @@
+=> {[31m[1;31m"[0m[31mutf8[1;31m"[0m[31m[0m=>[31m[1;31m"[0m[31m✓[1;31m"[0m[31m[0m,
+ [31m[1;31m"[0m[31mauthenticity_token[1;31m"[0m[31m[0m=>
+  [31m[1;31m"[0m[31mn1aWuky8BR7XR6yQPWUTsqPwSCkxajG94baPfje2kkA9JotYAt36YA+d+nIj3WraEfcZOW1JiPr+vfM55GryjQ==[1;31m"[0m[31m[0m,
+ [31m[1;31m"[0m[31mname[1;31m"[0m[31m[0m=>[31m[1;31m"[0m[31m[1;31m"[0m[31m[0m,
+ [31m[1;31m"[0m[31mimage[1;31m"[0m[31m[0m=>[31m[1;31m"[0m[31m[1;31m"[0m[31m[0m,
+ [31m[1;31m"[0m[31mtext[1;31m"[0m[31m[0m=>[31m[1;31m"[0m[31madaa[1;31m"[0m[31m[0m,
+ [31m[1;31m"[0m[31mcontroller[1;31m"[0m[31m[0m=>[31m[1;31m"[0m[31mtweets[1;31m"[0m[31m[0m,
+ [31m[1;31m"[0m[31maction[1;31m"[0m[31m[0m=>[31m[1;31m"[0m[31mcreate[1;31m"[0m[31m[0m}
