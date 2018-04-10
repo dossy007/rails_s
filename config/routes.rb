@@ -57,6 +57,8 @@ Rails.application.routes.draw do
   
   root 'tweets#index'
   
+  resources :tweets do
+   resources :comments
+  end
   resources :users
-   resources :tweets
 end
